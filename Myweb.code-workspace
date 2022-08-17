@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Myweb"
+		},
+		{
+			"path": "..\\checker game"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
